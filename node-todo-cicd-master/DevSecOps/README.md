@@ -138,15 +138,8 @@
   </a> 
   </a>&ensp;
 
-  <a href="https://www.linkedin.com/in/shubhamlondhe1996/">
+  <a href="https://www.linkedin.com/in/shubham-niranjan/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>&ensp;
 
- <a href="https://www.youtube.com/@TrainWithShubham">
-  <img width="30px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
-  </a>&ensp;
-
-  <a href="https://chat.whatsapp.com/FvRlAAZVxUhCUSZ0Y1s7KY">
-  <img width="30px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
-</a>&ensp;
 
